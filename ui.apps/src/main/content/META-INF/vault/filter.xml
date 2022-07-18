@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/tulasik/clientlibs"/>
+    <filter root="/apps/tulasik/components"/>
+    <filter root="/apps/tulasik/i18n"/>
+</workspaceFilter>

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: Tulasik Sites Project - All
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.adobe.aem.guides:aem-guides-tulasik.all:0.0.1-SN
+ APSHOT
+Content-Package-Description: All content package for Tulasik Sites Proje
+ ct
+Content-Package-Roots: /apps/tulasik-packages,/apps/tulasik-vendor-packa
+ ges
+

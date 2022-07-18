@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Tulasik Sites Project - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2022-07-15T09:51:33.838Z</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="name">aem-guides-tulasik.all</entry>
+<entry key="description">All content package for Tulasik Sites Project</entry>
+<entry key="artifactId">aem-guides-tulasik.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.guides</entry>
+</properties>

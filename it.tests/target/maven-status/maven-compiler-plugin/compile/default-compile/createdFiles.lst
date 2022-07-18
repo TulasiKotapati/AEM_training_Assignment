@@ -1,0 +1,4 @@
+com\adobe\aem\guides\tulasik\it\tests\GetPageIT.class
+com\adobe\aem\guides\tulasik\it\tests\HtmlUnitClient.class
+com\adobe\aem\guides\tulasik\it\tests\CreatePageIT.class
+com\adobe\aem\guides\tulasik\it\tests\PublishPageValidationIT.class
