@@ -1,2 +1,27 @@
-.cmp-text {}
-.cmp-text__paragraph {}
+.cmp-text {
+
+}
+.cmp-text-center {
+    text-align: center;
+    
+}
+.cmp-text-right {
+    text-align: right;
+    
+}
+.cmp-text-left {
+    text-align: left;
+    
+}
+.cmp-text__paragraph {
+    
+}
+
+.subheading_text{
+    font-size: 12.9px;
+    font-family: Avenir Next,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}

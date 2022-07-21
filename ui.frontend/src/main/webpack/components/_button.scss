@@ -1,4 +1,45 @@
-.cmp-button {}
-.cmp-button__text {}
+.cmp-button {
+    background-color:#fff;
+    border-color: #ff834b;
+    color: #ff834b;
+    width:161.71px;
+    height: 46px;
+}
+.cmp-button__text {
+
+}
+// .cmp-button-styles{
+//     border-color: #ff834b;
+//     transition: .3s opacity;
+//     transition-property: opacity;
+//     transition-duration: 0.3s;
+//     transition-timing-function: ease;
+//     transition-delay: 0s;
+//     background-color: #fff;
+//     display: inline-block;
+//     position: relative;
+//     border:1px solid transparent;
+//     padding: 12px,30px;
+// }
 .cmp-button__icon {}
 //.cmp-button__icon--myIcon {}
+
+.cmp-button-center{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.cmp-button-left{
+    display: flex;
+  justify-content: left;
+  align-items: left;
+
+}
+.cmp-button-right{
+    //margin-right:auto;
+    display: flex;
+  justify-content: right;
+  align-items: right;
+}

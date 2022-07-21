@@ -1,3 +1,31 @@
-.cmp-title {}
+.cmp-title-red{
+    color:red ;
+}
+.cmp-title-background{
+    background-color:aqua;
+}
+.cmp-title__center{
+    text-align: center;
+}
+
+.cmp-title__left{
+    text-align: left;
+    padding: 10px;
+}
+
+.cmp-title__right{
+    text-align: right;
+}
+.cmp-title__justify{
+    text-align: justify;
+}
+.subheading_text{
+    font-size: 12.9px;
+    font-family: Avenir Next,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
 .cmp-title__text {}
 .cmp-title__link {}

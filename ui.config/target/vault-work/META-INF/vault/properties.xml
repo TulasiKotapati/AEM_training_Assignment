@@ -4,7 +4,7 @@
 <comment>Tulasik Sites Project - UI config</comment>
 <entry key="cloudManagerTarget">none</entry>
 <entry key="allowIndexDefinitions">false</entry>
-<entry key="created">2022-07-15T09:51:33.567Z</entry>
+<entry key="created">2022-07-21T04:02:17.366Z</entry>
 <entry key="groupId">com.adobe.aem.guides</entry>
 <entry key="name">aem-guides-tulasik.ui.config</entry>
 <entry key="description">UI config package for Tulasik Sites Project</entry>
